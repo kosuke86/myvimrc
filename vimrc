@@ -1,4 +1,4 @@
-set noswapfile            " スワップファイルをつくらない
+ set noswapfile            " スワップファイルをつくらない
  set nocompatible          " vi互換モードをオフ（vimの拡張機能を有効)
  set hidden                " 編集中でも、保存しないで他のファイルを開けるようにする
  set confirm               " ファイルを保存していない場合に、ファイルの保存を確認するダイアログを出す
